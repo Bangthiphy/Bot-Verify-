@@ -1,0 +1,30 @@
+{
+  "name": "super-basic-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YorkAARGH/SuperbasicBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YorkAARGH/SuperbasicBot/issues"
+  },
+  "homepage": "https://github.com/YorkAARGH/SuperbasicBot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "express": "^4.16.2",
+    "node-persist": "^3.0.5",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0",
+    "noblox.js": "^4.2.6",
+    "quick.db": "^7.0.0-b22"
+  }
+}

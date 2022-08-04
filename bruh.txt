@@ -1,0 +1,784 @@
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+test
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+test
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+test
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+test
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+test
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+test
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:215:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:215:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:210:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:210:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:215:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:215:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:215:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:215:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:215:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:215:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:218:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError: Supplied parameter was neither a Role nor a Snowflake.
+    at GuildMember.addRole (/home/runner/node_modules/discord.js/src/structures/GuildMember.js:454:38)
+    at /home/runner/index.js:220:16
+    at tryCatcher (/home/runner/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/node_modules/bluebird/js/release/promise.js:517:31)
+    at Promise._settlePromise (/home/runner/node_modules/bluebird/js/release/promise.js:574:18)
+    at Promise._settlePromise0 (/home/runner/node_modules/bluebird/js/release/promise.js:619:10)
+    at Promise._settlePromises (/home/runner/node_modules/bluebird/js/release/promise.js:699:18)
+    at _drainQueueStep (/home/runner/node_modules/bluebird/js/release/async.js:138:12)
+    at _drainQueue (/home/runner/node_modules/bluebird/js/release/async.js:131:9)
+    at Async._drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:147:5)
+    at Immediate.Async.drainQueues (/home/runner/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:705:18)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+n wordTypeError: Supplied parameter was neither a Role nor a Snowflake.
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+TypeError [ERR_INVALID_ARG_TYPE]: The "pid" argument must be of type number. Received type undefined
+    at process.kill (internal/process/per_thread.js:182:13)
+    at Object.<anonymous> (/home/runner/index.js:306:10)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:831:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST
+I am ready!
+I'm in 'Builderfy'
+I am in 3 servers.
+TEST

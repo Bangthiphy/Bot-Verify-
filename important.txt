@@ -1,0 +1,30 @@
+/*
+let url1 = 'https://verify.eryn.io/api/user/'+message.author.id;
+
+
+      const m = await message.channel.send("Working...");
+    
+
+fetch(url1)
+.then(res => res.json())
+.then((out) => {
+  let z = out.status
+  let y = out.error;
+
+
+  if (z == "ok") {
+     m.edit('You are verified!')
+     let bstats = cn.get(message.guild.id)
+     if (bstats != 'false' || false) {
+       message.member.setNickname(''+out.robloxUsername)
+     }
+}
+else if (y == "User not found.") {
+  m.edit('You need to verify! https://verify.eryn.io')
+}
+else if (!y == 'User not found.' || 'undefined'){
+  m.edit('Something went wrong: ' + y);
+}
+})
+.catch(err => { throw err });
+*/
